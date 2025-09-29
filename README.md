@@ -127,6 +127,12 @@ Operator is EQUAL
 Identifier is a
 Operator is EQUAL
 Assignment expression is valid
+
+C:\Dev-Cpp\TDM-GCC-64\bin>a.exe
+Enter an expression:
+5 + * 8$
+Invalid arithmetic expression
+Error: syntax error
 ```
 # RESULT
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
